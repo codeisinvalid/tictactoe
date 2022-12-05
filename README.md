@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 _To install and set up Android Studio on your system follow the below links:_
 1. [Install and set up Android Studio on Windows](https://codeisinvalid.com/install-and-set-up-android-studio-on-windows/)
-2. [Install and set up Android Studio on Windows](https://codeisinvalid.com/install-and-set-up-android-studio/)
+2. [Install and set up Android Studio on Linux](https://codeisinvalid.com/install-and-set-up-android-studio/)
 
 
 ### Installation
